@@ -1,17 +1,17 @@
-# GEOMAREA 
----
+# GEOMAREA
+
 This is a simple library that can calculate an area of a circle and an area of a triangle.
 Made for an educational purpose.
----
+
 ## Installation
----
-'''bash
+
+```bash
 pip install geomaria
-'''
----
+```
+
 ## Usage
----
-'''python
+
+```python
 from geomarea.utils.calc_util import CalcUtil
 
 # calculates area of a shape without knowing it
@@ -19,8 +19,7 @@ from geomarea.utils.calc_util import CalcUtil
 
 CalcUtil.calc_area(5)
 CalcUtil.calc_area(3, 4, 5)
-'''
----
+```
+
 ## License
----
 [MIT](https://choosealicense.com/licenses/mit/)
