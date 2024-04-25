@@ -5,9 +5,7 @@ Made for an educational purpose.
 
 ## Installation
 
-```bash
-pip install geomaria
-```
+No longer available
 
 ## Usage
 
